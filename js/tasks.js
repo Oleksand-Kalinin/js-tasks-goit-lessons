@@ -46,7 +46,7 @@
 //    повідомлення "Користувач авторизований", якщо`isLogged` дорівнює`true`, і
 // "Користувач неавторизований", якщо`isLogged` дорівнює`false`.
 
-const isLogged = false;
+// const isLogged = false;
 
-if (isLogged) console.log('Користувач авторизований');
-else console.log('Користувач неавторизований');
+// if (isLogged) console.log('Користувач авторизований');
+// else console.log('Користувач неавторизований');
